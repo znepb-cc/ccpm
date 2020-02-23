@@ -1,0 +1,4 @@
+{
+    'testing-package',
+    'testing-dependency'
+}
